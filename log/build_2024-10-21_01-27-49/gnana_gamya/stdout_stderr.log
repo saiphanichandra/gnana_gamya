@@ -1,0 +1,22 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/config/empty.yaml
+-- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/description/robot.urdf.xacro
+-- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/description/robot_core.xacro
+-- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/launch/rsp.launch.py
+-- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/worlds/empty.world
+-- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/ament_index/resource_index/package_run_dependencies/gnana_gamya
+-- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/ament_index/resource_index/parent_prefix_path/gnana_gamya
+-- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/environment/path.sh
+-- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/environment/path.dsv
+-- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/local_setup.bash
+-- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/local_setup.sh
+-- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/local_setup.zsh
+-- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/local_setup.dsv
+-- Symlinking: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/package.dsv
+-- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/ament_index/resource_index/packages/gnana_gamya
+-- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/cmake/gnana_gamyaConfig.cmake
+-- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/cmake/gnana_gamyaConfig-version.cmake
+-- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/package.xml

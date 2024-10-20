@@ -1,0 +1,26 @@
+[0.011s] Invoking command in '/home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya': CMAKE_PREFIX_PATH=/home/chintu/ros2ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya -- -j8 -l8
+[0.045s] Invoked command in '/home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya' returned '0': CMAKE_PREFIX_PATH=/home/chintu/ros2ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya -- -j8 -l8
+[0.071s] Invoking command in '/home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya': CMAKE_PREFIX_PATH=/home/chintu/ros2ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya
+[0.077s] -- Install configuration: ""
+[0.078s] -- Execute custom install script
+[0.078s] -- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/config/empty.yaml
+[0.078s] -- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/description/robot.urdf.xacro
+[0.079s] -- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/description/robot_core.xacro
+[0.079s] -- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/launch/rsp.launch.py
+[0.079s] -- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/worlds/empty.world
+[0.079s] -- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/ament_index/resource_index/package_run_dependencies/gnana_gamya
+[0.079s] -- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/ament_index/resource_index/parent_prefix_path/gnana_gamya
+[0.079s] -- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/environment/ament_prefix_path.sh
+[0.080s] -- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/environment/ament_prefix_path.dsv
+[0.080s] -- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/environment/path.sh
+[0.080s] -- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/environment/path.dsv
+[0.080s] -- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/local_setup.bash
+[0.080s] -- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/local_setup.sh
+[0.080s] -- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/local_setup.zsh
+[0.080s] -- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/local_setup.dsv
+[0.081s] -- Symlinking: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/package.dsv
+[0.088s] -- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/ament_index/resource_index/packages/gnana_gamya
+[0.088s] -- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/cmake/gnana_gamyaConfig.cmake
+[0.089s] -- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/cmake/gnana_gamyaConfig-version.cmake
+[0.089s] -- Up-to-date symlink: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/package.xml
+[0.090s] Invoked command in '/home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya' returned '0': CMAKE_PREFIX_PATH=/home/chintu/ros2ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya
