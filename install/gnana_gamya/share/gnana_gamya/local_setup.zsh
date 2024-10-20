@@ -1,0 +1,1 @@
+/home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya/ament_cmake_environment_hooks/local_setup.zsh

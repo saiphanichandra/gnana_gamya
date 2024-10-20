@@ -1,0 +1,9 @@
+/home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya/CMakeFiles/uninstall.dir
+/home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya/CMakeFiles/gnana_gamya_uninstall.dir
+/home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya/CMakeFiles/test.dir
+/home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya/CMakeFiles/edit_cache.dir
+/home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya/CMakeFiles/rebuild_cache.dir
+/home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya/CMakeFiles/list_install_components.dir
+/home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya/CMakeFiles/install.dir
+/home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya/CMakeFiles/install/local.dir
+/home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya/CMakeFiles/install/strip.dir

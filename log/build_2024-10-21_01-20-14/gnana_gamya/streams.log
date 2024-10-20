@@ -1,0 +1,59 @@
+[0.009s] Invoking command in '/home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya': CMAKE_PREFIX_PATH=/home/chintu/ros2ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/chintu/devws/src/gnana_gamya/gnana_gamya -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya
+[0.060s] -- The C compiler identification is GNU 11.4.0
+[0.112s] -- The CXX compiler identification is GNU 11.4.0
+[0.120s] -- Detecting C compiler ABI info
+[0.179s] -- Detecting C compiler ABI info - done
+[0.187s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.187s] -- Detecting C compile features
+[0.187s] -- Detecting C compile features - done
+[0.190s] -- Detecting CXX compiler ABI info
+[0.261s] -- Detecting CXX compiler ABI info - done
+[0.269s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.269s] -- Detecting CXX compile features
+[0.270s] -- Detecting CXX compile features - done
+[0.272s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.432s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.493s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.515s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.596s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.608s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.608s] -- Configured cppcheck include dirs: 
+[0.608s] -- Configured cppcheck exclude dirs and/or files: 
+[0.619s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[0.619s] -- Configured cpplint exclude dirs and/or files: 
+[0.621s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.623s] -- Added test 'lint_cmake' to check CMake code style
+[0.625s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.635s] -- Added test 'uncrustify' to check C / C++ code style
+[0.635s] -- Configured uncrustify additional arguments: 
+[0.637s] -- Added test 'xmllint' to check XML markup files
+[0.638s] -- Configuring done
+[0.641s] -- Generating done
+[0.642s] -- Build files have been written to: /home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya
+[0.646s] Invoked command in '/home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya' returned '0': CMAKE_PREFIX_PATH=/home/chintu/ros2ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/chintu/devws/src/gnana_gamya/gnana_gamya -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya
+[0.649s] Invoking command in '/home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya': CMAKE_PREFIX_PATH=/home/chintu/ros2ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya -- -j8 -l8
+[0.682s] Invoked command in '/home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya' returned '0': CMAKE_PREFIX_PATH=/home/chintu/ros2ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya -- -j8 -l8
+[0.707s] Invoking command in '/home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya': CMAKE_PREFIX_PATH=/home/chintu/ros2ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya
+[0.713s] -- Install configuration: ""
+[0.714s] -- Execute custom install script
+[0.714s] -- Symlinking: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/config/empty.yaml
+[0.723s] -- Symlinking: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/description/robot.urdf.xacro
+[0.731s] -- Symlinking: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/description/robot_core.xacro
+[0.739s] -- Symlinking: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/launch/rsp.launch.py
+[0.746s] -- Symlinking: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/worlds/empty.world
+[0.754s] -- Symlinking: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/ament_index/resource_index/package_run_dependencies/gnana_gamya
+[0.762s] -- Symlinking: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/ament_index/resource_index/parent_prefix_path/gnana_gamya
+[0.770s] -- Symlinking: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/environment/ament_prefix_path.sh
+[0.778s] -- Symlinking: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/environment/ament_prefix_path.dsv
+[0.786s] -- Symlinking: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/environment/path.sh
+[0.794s] -- Symlinking: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/environment/path.dsv
+[0.802s] -- Symlinking: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/local_setup.bash
+[0.810s] -- Symlinking: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/local_setup.sh
+[0.818s] -- Symlinking: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/local_setup.zsh
+[0.826s] -- Symlinking: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/local_setup.dsv
+[0.834s] -- Symlinking: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/package.dsv
+[0.842s] -- Symlinking: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/ament_index/resource_index/packages/gnana_gamya
+[0.850s] -- Symlinking: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/cmake/gnana_gamyaConfig.cmake
+[0.858s] -- Symlinking: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/cmake/gnana_gamyaConfig-version.cmake
+[0.865s] -- Symlinking: /home/chintu/devws/src/gnana_gamya/gnana_gamya/install/gnana_gamya/share/gnana_gamya/package.xml
+[0.875s] Invoked command in '/home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya' returned '0': CMAKE_PREFIX_PATH=/home/chintu/ros2ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/chintu/devws/src/gnana_gamya/gnana_gamya/build/gnana_gamya

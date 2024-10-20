@@ -1,0 +1,8 @@
+source;share/gnana_gamya/hook/cmake_prefix_path.ps1
+source;share/gnana_gamya/hook/cmake_prefix_path.dsv
+source;share/gnana_gamya/hook/cmake_prefix_path.sh
+source;share/gnana_gamya/local_setup.bash
+source;share/gnana_gamya/local_setup.dsv
+source;share/gnana_gamya/local_setup.ps1
+source;share/gnana_gamya/local_setup.sh
+source;share/gnana_gamya/local_setup.zsh
