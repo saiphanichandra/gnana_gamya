@@ -13,7 +13,7 @@ from launch_ros.actions import Node
 
 
 def generate_launch_description():
-    package_name='gnanagamya' #<--- CHANGE ME
+    package_name='gnana_gamya' #<--- CHANGE ME
 
     rsp = IncludeLaunchDescription(
                 PythonLaunchDescriptionSource([os.path.join(
@@ -34,7 +34,7 @@ def generate_launch_description():
         rsp,
         gazebo,
         spawn_entity,
-    ])
+    ]) 
 
 
    
